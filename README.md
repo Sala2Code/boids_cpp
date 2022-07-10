@@ -29,3 +29,5 @@ The V2 is a horizontal moving, without border and generation. You can choose the
 To use the project, install all .dll and makefile. Then in Vscode you can run writting "make" and to launch th .exe whether you click on the .exe or you write ./main.exe
 In serf.hpp you can modify the behaviour of boids.
 Boids are named "serf". 
+
+My SFML is in "C:/librairies" so if you want use the makefile to run easily you must change the path.
