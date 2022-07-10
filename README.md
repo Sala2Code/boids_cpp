@@ -19,7 +19,7 @@ Channel : https://www.youtube.com/channel/UCcEkxe69YprtYS2dDW7w5-Q ;
 
 ### More info
 
-There are 2 versions : the V1 (main1.cpp) and the V2 (main.cpp)
+There are 2 versions : the V1 (main_1.cpp) and the V2 (main.cpp)
 
 The V1 is with border, no generation (only those from start, stay) and the starting is that all boids are in a "grid" with an random angle viewing.
 To use the V1, just rename to "main.cpp"
