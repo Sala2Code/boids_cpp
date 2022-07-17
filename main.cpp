@@ -10,8 +10,7 @@
 #include <math.h>       
 #define PI 3.14159265
 
-// ! Change the path for you !
-#include <SFML/serf.hpp> 
+#include "serf.hpp"
 
 
 ////////////////////////////////////////////////////////////
